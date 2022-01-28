@@ -6,9 +6,9 @@
 
 **About me:**
 - 💻 I'm mobile and web junior developer
-- <img height=18px src="https://cdn-icons.flaticon.com/png/512/2436/premium/2436874.png?token=exp=1637372369~hmac=a19f99d0a46d82529586beeda11187ab"> I’m currently learning Python and ReactJs
+- <img height=18px src="https://cdn-icons.flaticon.com/png/512/2436/premium/2436855.png?token=exp=1643402121~hmac=443e25b1748294bb8a64e792f618668a"> I’m currently learning Python and ReactJs
 - 📄 I'm currently graduating in computer engineer
-- <img height=16px src="https://cdn-icons.flaticon.com/png/512/3369/premium/3369157.png?token=exp=1637371555~hmac=8f930b687ccc1b42122a1e147fb62a74"> I want to try make life easier with technology
+- <img height=16px src="https://cdn-icons.flaticon.com/png/512/3206/premium/3206042.png?token=exp=1643402060~hmac=31bb914905162511f142401edaad8c39"> I want to try make life easier with technology
 
 **Languages and tools:**
 
