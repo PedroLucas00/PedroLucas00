@@ -1,12 +1,10 @@
-<img width=100% src="https://github.com/PedroLucas00/PedroLucas00/blob/main/Images/PEDRO%20LUCAS.png">
+<h1 align="left">Hi there, I'm Peter 👋</h1>
 
-<h1 align="center">Hi there, I'm Peter 👋</h1>
-
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;AI+and+Automation+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/pedro-lucas-546492248" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
