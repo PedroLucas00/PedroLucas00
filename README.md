@@ -65,6 +65,19 @@ If you'd like to collaborate, discuss tech, or just say hello:
 
 ---
 
+<h2 align="center">⚡ My Dev Energy</h2>
+
+<p align="center">
+  <lottie-player 
+    src="https://assets7.lottiefiles.com/packages/lf20_pwohahvd.json"  
+    background="transparent"  
+    speed="1"  
+    style="width: 300px; height: 300px;"  
+    loop  
+    autoplay>
+  </lottie-player>
+</p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
