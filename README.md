@@ -1,43 +1,92 @@
 <div align="center">
-  <img width="100%" src="https://github.com/PedroLucas00/PedroLucas00/blob/main/Images/PEDRO%20LUCAS.png" alt="Pedro Lucas Banner">
+  <img width="100%" src="https://github.com/PedroLucas00/PedroLucas00/blob/main/Images/PEDRO%20LUCAS.png" />
 </div>
 
-# Hi Everyone 👽, I'm Pedro (Peter) Lucas
+<h1 align="center">Hey 👋, I'm Pedro Lucas</h1>
 
 <p align="center">
-  <em>A Full-Stack Web & Mobile Developer passionate about building scalable applications and creating technology that makes life easier.</em>
+  <strong>Software Engineer • Full Stack Developer • AI Enthusiast</strong>
+</p>
+
+<p align="center">
+  Building scalable applications, intelligent systems and digital experiences focused on performance, automation and innovation.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- 💻 I'm a **Mid-Level Full-Stack Developer**, experienced in building robust architectures and integrating complex systems.
-- 🎓 I'm currently completing my degree in **Computer Engineering**.
-- 🚀 Always focused on delivering clean code, modern aesthetics, and high-performance solutions.
-- 🌱 I’m currently deepening my knowledge in **Python** and **ReactJS**.
-- 💡 **Goal:** To solve real-world problems and simplify processes through innovative tech solutions.
-
----
-
-### 🛠️ Languages and Tools
-
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Languages**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 💻 Full Stack Developer focused on modern web and mobile applications
+- 🧠 Passionate about Artificial Intelligence, automation and scalable architectures
+- 📱 Experience with Flutter, React, Node.js and TypeScript ecosystems
+- ⚙️ Currently exploring AI Engineering, Python and advanced backend systems
+- 🎓 Computer Engineering student
+- 🚀 Creating solutions that make people's lives easier through technology
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroLucas00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" height="45" />
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" height="45" />
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" height="45" />
+<img src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png" height="45" />
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" height="45" />
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_html_icon_130541.png" height="45" />
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" height="45" />
+
 </div>
+
+---
+
+## 📌 Current Focus
+
+- 🤖 Generative AI & AI Agents
+- 📈 Scalable SaaS Architectures
+- 🔐 Backend Systems with NestJS
+- 📊 Crypto & Financial Automation
+- ⚡ High Performance Frontend Applications
+
+---
+
+## 🌎 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/PedroLucas00" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLucas00&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas00&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+```javascript
+while(alive) {
+   eat();
+   code();
+   sleep();
+   repeat();
+}
